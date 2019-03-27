@@ -21,21 +21,21 @@
 					Pembuatan website ini menggunakan :
 					<div class="mt-1">
 						Framework
-						<a href="" class="mylink-link nav-link d-inline">Codeigniter versi 3.1.9</a>
-						<a href="" class="mylink-link nav-link d-inline">Jquery 3.3.1</a>
+						<a href="https://www.codeigniter.com/" class="mylink-link nav-link d-inline">Codeigniter versi 3.1.9</a>
+						<a href="https://jquery.com/" class="mylink-link nav-link d-inline">Jquery 3.3.1</a>
 					</div>
 					<div class="mt-1">
 						Desain
-						<a href="" class="mylink-link nav-link d-inline">Bootstrap 4.3.1</a>
+						<a href="https://getbootstrap.com/" class="mylink-link nav-link d-inline">Bootstrap 4.3.1</a>
 					</div>
 					<div class="mt-1">
 						Icon
-						<a href="" class="mylink-link nav-link d-inline">Material Design Icons 3.0.1</a>
-						<a href="" class="mylink-link nav-link d-inline">FontAwesome 5.8.1</a>
+						<a href="https://material.io/tools/icons/?style=baseline" class="mylink-link nav-link d-inline">Material Design Icons 3.0.1</a>
+						<a href="https://fontawesome.com/" class="mylink-link nav-link d-inline">FontAwesome 5.8.1</a>
 					</div>
 					<div class="mt-1">
 						Gambar background
-						<a href="" class="mylink-link nav-link d-inline">Link ke gambar</a>
+						<a href="https://www.pexels.com/photo/man-and-woman-handshake-567633/" class="mylink-link nav-link d-inline">Photo by rawpixel.com from Pexels</a>
 					</div>
 				</p>
 			</div>
