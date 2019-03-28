@@ -7,7 +7,7 @@
 	<link href="<?php echo base_url('assets/css/bootstrap.min.css');?>" rel="stylesheet">
 	<link href="<?php echo base_url('assets/css/style.css');?>" rel="stylesheet">
 	<link href="<?php echo base_url('assets/css/material-icons.css');?>" rel="stylesheet">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+	<link rel="stylesheet" href="<?php echo base_url('assets/css/all.min.css');?>">
 
 	<script src="<?php echo base_url('assets/js/jquery-3.3.1.min.js'); ?>"></script>
 	<script src="<?php echo base_url('assets/js/bootstrap.bundle.js'); ?>"></script>

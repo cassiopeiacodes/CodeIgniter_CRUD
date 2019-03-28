@@ -7,12 +7,12 @@
     <div class="col align-self-center">
       <div class="row-5 align-right">
         Lihat source code lainnya di
-        <a target="_blank" href="https://github.com/noapetra/" class="nav-link d-inline">
+        <a target="_blank" href="https://github.com/noapetra/" class="nav-link d-inline" title="Pergi ke https://github.com/noapetra/">
           <i class="fab fa-github"></i> noapetra
         </a>
       </div>
     </div>
   </div>
-  
+
 </body>
 </html>
