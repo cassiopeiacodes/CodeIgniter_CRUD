@@ -1,7 +1,7 @@
 # CodeIgniter_CRUD
 Pembuatan CRUD dengan menggunakan Codeigniter versi 3.1.9, Bootstrap 4.3.1, Jquery 3.3.1, Material Design Icons 3.0.1., dan FontAwesome versi 5.8.1
 
-# Tampilan 
+# Screenshot tampilan
 ![Create](https://user-images.githubusercontent.com/28434711/55145191-e44fc500-5174-11e9-8f61-8bc6ce187edf.PNG)
 ![Create-fill](https://user-images.githubusercontent.com/28434711/55145192-e580f200-5174-11e9-9098-9b3498665600.PNG)
 ![Create-notif](https://user-images.githubusercontent.com/28434711/55145204-eade3c80-5174-11e9-835f-f2c566dbca0e.PNG)
