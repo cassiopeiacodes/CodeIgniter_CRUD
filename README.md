@@ -1,8 +1,11 @@
 # CodeIgniter_CRUD
 Pada pembuatan project ini, menggunakan:
+###### Source code
 - Codeigniter versi 3.1.9
-- Bootstrap 4.3.1
 - Jquery 3.3.1
+###### Tampilan
+- Bootstrap 4.3.1
+###### Icon
 - Material Design Icons 3.0.1.
 - FontAwesome versi 5.8.1
 
